@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../shoetryon-web-js-main"
+		},
+		{
+			"path": "../js"
+		},
+		{
+			"path": "../models"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
