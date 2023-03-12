@@ -1,4 +1,4 @@
-# shoetryon-web-js
+# JUST FOR TESTING PURPOSE
 
 
 - Run `npm install`
